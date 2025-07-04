@@ -1,4 +1,4 @@
-package c_wrapper
+package rnnoise
 
 // #cgo LDFLAGS: -L${SRCDIR}/../.libs -lrnnoise -lpthread
 // #cgo CFLAGS: -I${SRCDIR}/../include

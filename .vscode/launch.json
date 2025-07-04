@@ -7,7 +7,7 @@
       "request": "launch",
       "mode": "debug",
       "program": "${workspaceRoot}",
-      "args": ["noise.raw", "output.raw"],
+      "args": ["noise.wav", "output.raw"],
       "env": {
         "LD_LIBRARY_PATH": "${workspaceFolder}/.libs:${env:LD_LIBRARY_PATH}"
       }
